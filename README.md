@@ -1,1 +1,1 @@
-# Film-Rental-Store-SQL-Project
+# The project focuses on analyzing customer rental behavior to gain valuable insights into patterns and trends. It involves understanding the relationships between various database tables to formulate accurate and efficient queries. The analysis is performed using a range of SQL techniques, including operators, clauses, subqueries, and joins, to explore customer behavior and rental trends comprehensively.
